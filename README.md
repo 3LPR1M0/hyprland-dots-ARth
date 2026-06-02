@@ -10,4 +10,7 @@ As for the Waybar I would recommend you to try waybar and see its limitations an
 I was using wallust in this hyprland set up so you can see the @color12 etc in the style.css file and also the import line at the very top. I wouldn't recommend using wallust I think manually making themes and using a different approach to themeing is better. However if you do want to try it by all means it's a great starting point setting up your wallust config.
 
 
+Dont forget to download Wofi or Rofi
+
+
 I would recommend not to just blindly copy and paste from the files you should use this as an example as to what you could do. Anyways enjoy!!
